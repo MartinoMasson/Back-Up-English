@@ -1,4 +1,4 @@
-# Back-Up-Inglish
+# Back-Up-English
 
 Landing page para un instituto particular de inglés que muestra su trayectoria, servicios y comentarios de alumnos satisfechos.
 
