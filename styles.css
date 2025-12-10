@@ -69,10 +69,16 @@ body {
 }
 
 .logo {
-  font-size: 1.25rem;
-  font-weight: 700;
-  color: var(--color-primary);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+.logo img {
+  max-width: 100px;
+  height: auto;
+}
+
 
 .nav-menu {
   display: flex;
